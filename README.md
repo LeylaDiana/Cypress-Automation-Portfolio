@@ -12,6 +12,10 @@
 *   ✅ Add & Remove Items
 *   ✅ Complete Checkout Process
 *   ✅ Error Validation
+*   ✅ Navigation Menu & Logout
+*   ✅ View Product Details
+*   ✅ Sorting Products
+*   ✅ Social Media Links
 
 ## 📸 Test Results
 Automated Testing Project by Leyla Diana

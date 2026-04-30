@@ -7,6 +7,7 @@ JavaScript
 Chrome Browser
 
 📂 Features Tested
+
 ✅ User Login
 ✅ Add & Remove Items
 ✅ Complete Checkout Process
